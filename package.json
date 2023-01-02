@@ -1,0 +1,24 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "brazil" :"node index.js Brazil",
+    "vazio" :"node index.js",
+    "busca" :"node buscaPorLetra.js b",
+    "addPais":"node addPais.js BrLandia BR"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karineveppo/node-package-json-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karineveppo/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/karineveppo/node-package-json-template#readme"
+}
